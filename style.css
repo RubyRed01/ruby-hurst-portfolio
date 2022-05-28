@@ -1,0 +1,154 @@
+* {
+    box-sizing: border-box;
+    background-color: hotpink;
+}
+
+header {
+background-color: pink;
+padding: 20px;
+border: 2px;
+border-style: solid;
+border-color: black;
+}
+
+.h1 {
+padding: 10px;
+display: inline-block;
+}
+
+#nav {
+padding-top: 15px;
+margin-right: 20px;
+float: right;
+}
+
+#nav ul {
+    list-style-type: none;
+}
+
+#nav ul li {
+    display: inline-block;
+    margin-left: 35px;
+}
+
+.about-me-h2 {
+    padding: 50px;
+    float: left;
+    border: 2px;
+    border-style: solid;
+    border-color: black;
+    background-color: pink;
+}
+
+.about-me {
+    display: inline-block;
+    border: 2px;
+    border-style: solid;
+    border-color: black;
+    background-color: pink;
+}
+
+
+
+#portrait {
+max-width: 300px;
+max-height: 300px;
+float:right;
+}
+
+.work {
+    padding: 15px;
+    margin-top: 100px;
+    border: 2px;
+    border-style: solid;
+    border-color: black;
+    background-color: pink;
+    float: left;
+    width: 50%;
+    margin-bottom: 350px;
+}
+
+.work-h2{
+float: left;
+}
+
+
+.contact {
+    margin-bottom: 50px;
+    margin-top: 150px;
+    border: 2px;
+    border-style: solid;
+    border-color: black;
+    float: left;
+    padding: 50px;
+}
+
+#contact-h2 {
+    float: left;
+    background-color: pink;
+}
+
+#contact_list {
+    float: right;
+    margin-top: 150px;
+    padding: 50px;
+    border: 2px;
+    border-style: solid;
+    border-color: black;
+}
+
+#contact_list li {
+    display: inline-block;
+    margin: 35px;
+    background-color: pink;
+}
+
+#app_1_img {
+    max-height: 400px;
+}
+
+#app_2_img {
+    max-height: 200px;
+}
+
+#app_3_img {
+    max-height: 200px;
+    
+}
+
+#section_1 {
+    display: block;
+    padding: 15px;
+    width: 35%;
+    float: right;
+    border: 2px;
+    border-style: solid;
+    border-color: black;
+    margin-bottom: 15px;
+}
+
+#section_2 {
+    display: block;
+    width: 25%;
+    margin-left: 75px;
+    border: 2px;
+    border-style: solid;
+    border-color: black;
+    float: left;
+    margin-left: 500px;
+}
+
+#section_3 {
+    display:block;
+    width: 35%;
+    margin-left: 75px;
+    border: 2px;
+    border-style: solid;
+    border-color: black;
+    float: right;
+}
+
+#s2 {
+    background-color: pink;
+}
+
