@@ -10,6 +10,6 @@ It will be broken down into sections:
  - Individual box sections of my created applications.
  - And of course styling and functioning links.
 
-Substitutes will have to be created in place of the application sections, based on where exactly I am up to in my course and how many appplications I've actually created. Again, this will be updated over time of course. "Coming Soon" examples  may be  used in place of empty application sections.
+Substitutes will have to be created in place of the application sections, based on where exactly I am up to in my course and how many applications I've actually created. Again, this will be updated over time of course. "Coming Soon" examples  may be  used in place of empty application sections.
 
 https://rubyred01.github.io/ruby-hurst-portfolio/
